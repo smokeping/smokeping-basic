@@ -1,2 +1,2 @@
 # smokeping-basic
-Open Source Smokeping Basic version
+Open Source Smokeping.io Basic version
